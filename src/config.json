@@ -6,7 +6,7 @@
   "controls": {
     "about": true,
     "fullscreen": true,
-    "search": true,
+    "search": false,
     "section": true,
     "swap": true,
     "thumbnails": true

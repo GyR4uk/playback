@@ -1,7 +1,7 @@
 {
   "name": "playback",
   "version": "2.3.0",
-  "homepage": "/playback",
+  "homepage": "/",
   "dependencies": {
     "classnames": "^2.2.6",
     "linkifyjs": "^2.1.9",
